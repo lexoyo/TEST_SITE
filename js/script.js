@@ -1,4 +1,7 @@
 
+
+/* Test d'espace membre insécurisé */
+
 function Login(){ 
   var done=0; 
   var username=document.login.username.value; 
